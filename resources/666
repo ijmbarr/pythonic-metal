@@ -1,0 +1,91 @@
+digraph {
+	that
+		that -> what
+		that -> twists
+		that -> night
+	real
+		real -> and
+	reflections
+		reflections -> of
+	i
+		i -> saw
+		i -> believe
+	"it's"
+		"it's" -> always
+	were
+		were -> they
+	to
+		to -> despair
+	at
+		at -> me
+	me
+		me -> to
+		me -> "'cos"
+	what
+		what -> i
+	evil
+		evil -> face
+	twists
+		twists -> my
+	just
+		just -> what
+		just -> fantasy
+	despair
+		despair -> the
+	fantasy
+		fantasy -> just
+	brings
+		brings -> me
+	there
+		there -> the
+	believe
+		believe -> that
+	warped
+		warped -> mind
+	mind
+		mind -> staring
+		mind -> and
+	they
+		they -> reflections
+	in
+		in -> my
+	back
+		back -> at
+	old
+		old -> dreams
+	dream
+		dream -> "it's"
+	and
+		and -> brings
+		and -> not
+	face
+		face -> that
+	the
+		the -> night
+		the -> evil
+	not
+		not -> just
+	always
+		always -> there
+	"'cos"
+		"'cos" -> in
+	my
+		my -> warped
+		my -> dream
+		my -> old
+		my -> mind
+	was
+		was -> real
+		was -> black
+	night
+		night -> was
+	saw
+		saw -> in
+		saw -> that
+	dreams
+		dreams -> were
+	staring
+		staring -> back
+	of
+		of -> my
+}
